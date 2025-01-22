@@ -52,6 +52,6 @@ Additional Tips
 By following this 30-day plan, you will have a solid foundation in graphic design and be well on your way to developing more advanced skills. Remember, the key to success in graphic design is practice and continual learning!
 
 <p align="center">
-  <a href="https://github.com/rlangc/Test_RCL.git"><b>Return to 30 Day Learning Strategy</b></a>
+  <a href="https://github.com/rlangc/30-Day-Learning.git"><b>Return to 30 Day Learning Strategy</b></a>
 <p align="center">
   <a href="https://github.com/rlangc/Test_RCL.git"><b>Return to Home</b></a>
